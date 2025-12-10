@@ -1,7 +1,7 @@
-name = "鸟笼改"
+name = "无限耐久"
 description = 
 [[
-作物种子换种子
+无限耐久
 ]]
 author = "xz"
 version = "1.0"
